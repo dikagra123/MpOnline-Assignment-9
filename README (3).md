@@ -1,16 +1,17 @@
 # Image Classification using Convolutional Neural Networks (CNN)
 
-**Author:** Akshat Garg  
+**Author:** Diksha Agrawal
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BEY10036
 
-**Application Number:** IN26011052
+**Application Number:** IN26010961
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** dikagra123@gmail.com
 
 ## Objective
+
 The objective of this project is to develop a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify pet images into Cats and Dogs to support automated animal identification[cite: 2].
 
 ## Dataset Link
